@@ -1,0 +1,14 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+Master-Chef-App/app/__pycache__/
+Master-Chef-App/app/*/__pycache__/
+Master-Chef-App/app/*/*/*/__pycache__/
+.env/
+.venv/
+venv/
